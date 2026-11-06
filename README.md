@@ -1,5 +1,5 @@
 @ Author- Rohit Ahirwar
--- Colledge Project
+-- college Project
 
 # 🛒 E-commerce Sales Analysis & Visualization Using Python 
 
